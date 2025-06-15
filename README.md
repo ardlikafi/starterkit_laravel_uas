@@ -63,6 +63,17 @@ Starter kit ini dibuat untuk memenuhi tugas UAS: membuat aplikasi starter kit be
   - Email: `wartawan@example.com`
   - Password: `password`
 
+## Tangkapan Layar
+
+### Dashboard
+![Dashboard](public/screenshots/dashboard.png)
+
+### Halaman Login
+![Login](public/screenshots/login.png)
+
+### Form Berita
+![Form Berita](public/screenshots/news-form.png)
+
 ## Struktur Folder Penting
 - `app/Http/Controllers` : Controller utama
 - `app/Http/Middleware/CheckRole.php` : Middleware role user
