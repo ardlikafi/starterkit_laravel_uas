@@ -72,7 +72,6 @@ Starter kit ini dibuat untuk memenuhi tugas UAS: membuat aplikasi starter kit be
 
 ## Catatan
 - Untuk login sosial (Google, Github, Microsoft), atur credential di `.env` dan `config/services.php`.
-- Untuk fitur CodeIgniter, lihat folder `codeigniter-starter` (jika tersedia).
+- Untuk fitur CodeIgniter, lihat folder `codeigniter-starter`.
 
-## Lisensi
-MIT
+## Create by Ardli Kafi Murobby
