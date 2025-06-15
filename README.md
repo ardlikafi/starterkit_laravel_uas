@@ -68,9 +68,6 @@ Starter kit ini dibuat untuk memenuhi tugas UAS: membuat aplikasi starter kit be
 ### Dashboard
 ![Dashboard](public/screenshots/dashboard.png)
 
-### Halaman Login
-![Login](public/screenshots/login.png)
-
 ### Form Berita
 ![Form Berita](public/screenshots/news-form.png)
 
